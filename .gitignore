@@ -7,8 +7,8 @@ __pycache__/
 venv/
 .env/
 
-# Generated images (re-generated on run)
-*.png
+# Generated images in root (re-generated on run)
+/*.png
 
 # IDE
 .vscode/
